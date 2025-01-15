@@ -1,5 +1,5 @@
 {
-  "name": "com.archerstudio.utilities",
+  "name": "com.archerstudio.utils",
   "version": "0.0.1",
   "displayName": "ArcherStudio Utilities",
   "description": "A collection of Unity editor utility tools including material import management and missing script cleanup",
@@ -15,7 +15,6 @@
     "name": "ArcherStudio",
     "url": "https://github.com/archerstudio-editor-utilities"
   },
-  "dependencies": {},
   "samples": [],
   "documentationUrl": "",
   "changelogUrl": "",
