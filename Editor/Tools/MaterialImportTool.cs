@@ -3,7 +3,7 @@ using UnityEditor;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace ArcherStudio.Editor.Utilities
+namespace ArcherStudio.Utils.Editor
 {
     public class MaterialImportTool : EditorWindow
     {

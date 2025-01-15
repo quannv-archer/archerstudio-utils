@@ -1,7 +1,7 @@
 {
-  "name": "com.archerstudio.editor-utilities",
+  "name": "com.archerstudio.utilities",
   "version": "0.0.1",
-  "displayName": "ArcherStudio Editor Utilities",
+  "displayName": "ArcherStudio Utilities",
   "description": "A collection of Unity editor utility tools including material import management and missing script cleanup",
   "unity": "2021.3",
   "keywords": [

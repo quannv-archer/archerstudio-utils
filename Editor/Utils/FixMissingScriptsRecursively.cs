@@ -7,7 +7,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace ArcherStudio.Editor.Utilities
+namespace ArcherStudio.Utils.Editor
 {
     public static class FixMissingScriptsRecursively
     {

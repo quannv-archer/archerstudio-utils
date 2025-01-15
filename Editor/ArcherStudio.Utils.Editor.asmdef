@@ -1,11 +1,13 @@
 {
-    "name": "ArcherStudioUtilities",
+    "name": "ArcherStudio.Utils.Editor2",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [],
-    "excludePlatforms": [
-        "Editor"
+    "references": [
+        "GUID:a4c33e120d66d204f8677c2173d2a911"
     ],
+    "includePlatforms": [
+		"Editor"
+	],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
