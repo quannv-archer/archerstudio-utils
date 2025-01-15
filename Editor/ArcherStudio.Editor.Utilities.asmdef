@@ -1,6 +1,6 @@
 {
     "name": "ArcherStudioUtilities",
-    "rootNamespace": "ArcherStudio.Editor.Utilities",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [
